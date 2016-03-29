@@ -9,7 +9,7 @@
 	import flash.geom.Point;
 	import flash.display.Shape;
 	import flash.display.Bitmap;
-	//bitmap测试222,feature-one again
+	//bitmap测试222,feature-one again,hotfix-one
 	public class Main extends Sprite{
 		
 		//[Embed(source = "CP064AB.png")]
